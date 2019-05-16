@@ -1,0 +1,16 @@
+h1 .badge {
+    font-size: 1rem;
+    letter-spacing: 0.1rem;
+    vertical-align: super;
+    border-radius: 0;
+}
+
+.form-control {
+    border-radius: 0;
+}
+
+#inputresultado {
+    border: 1px solid #becad6;
+    padding: 0.5rem 1rem;
+    color: #868e96;
+}

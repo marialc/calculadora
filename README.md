@@ -1,2 +1,2 @@
 # Calculator 2000
-Calculadora JS » Bootstrap 4.3 + Shards UI Kit + JavaScript 
+Se trata de una calculadora JS maquetada con Bootstrap 4.3 + Shards UI Kit. Simple, pero efectiva ;)
